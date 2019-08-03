@@ -1,2 +1,2 @@
-# JavaScriot-Drum-Kit
+# JavaScript-Drum-Kit
 Practice Java Scrip App
